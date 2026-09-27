@@ -1,9 +1,9 @@
 ---
-name: premium-product-video
+name: product-video
 description: Direct a product video, launch film, feature reveal or UI motion graphic so it looks premium ("Apple-level", expensive, pro) instead of like generic AI motion graphics. Use whenever the user wants a product/launch/promo video to look expensive, premium, cinematic, polished or Apple-style; when planning, storyboarding or art-directing one; when picking music tempo or sound effects for one; or when giving revision notes on a render ("it looks cheap", "make it feel more premium"). Supplies the taste rules (brand constraints, design before motion, eased motion, flowing transitions, BPM-first music, subtractive sound) and the direction loop (reference → context dump → 3 storyboards → stills → render → director notes). Pair it with /hyperframes or /product-launch-video, which do the build; this skill decides what good looks like and how to steer there.
 ---
 
-# Premium Product Video
+# Product Video
 
 The model and the tools are the same for everyone. What makes a product video look expensive is **intention**: every choice is deliberate and consistent from video to video, and most of "premium" is what you leave out.
 
