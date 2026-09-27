@@ -1,0 +1,7 @@
+# Agent working notes stay local
+CLAUDE.md
+AGENTS.md
+.claude/
+
+# macOS
+.DS_Store
